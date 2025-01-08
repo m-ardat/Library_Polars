@@ -1,2 +1,2 @@
-# Library_Polars
+# Library Polars
  Выжимка из Polars
