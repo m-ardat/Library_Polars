@@ -23,3 +23,13 @@
 |[Структура данных DataFrame](https://github.com/m-ardat/Library_Polars/blob/main/DataFrameDataStructure.ipynb)| | |
 
 
+### Автор
+Максим Ардат - [GitHub](https://github.com/m-ardat), [Telegram](https://t.me/m_ardat)
+
+### Источники
+Используемые источники при составлении репозитория:
+1. [Сайт библиотеки Polars](https://pola.rs/)
+2. [Документация библиотеки Polars](https://docs.pola.rs/api/python/stable/reference/index.html)
+
+### Лицензия
+Для получения дополнительной информации смотрите [LICENSE](/LICENSE).
