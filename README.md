@@ -17,6 +17,8 @@
 
 ### Наполнение
 Репозиторий содержит:
-| Наименование темы | Файл |
-|----------|----------|
-| Объект Series и его структура данных | [Файл 1](https://github.com/m-ardat/Library_Polars/blob/main/SeriesOfObjectsAndDataStructure.ipynb) |
+| Тема | Содержание | Методы, атрибуты, праметры |
+|----------|----------|--------------------------|
+|[Объект Series и его структура данных](https://github.com/m-ardat/Library_Polars/blob/main/SeriesOfObjectsAndDataStructure.ipynb) | (Описание позже) <br>(Описание позже) <br> (Описание позже) <br> (Описание позже)| (Описание позже) |
+
+
