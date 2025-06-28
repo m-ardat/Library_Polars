@@ -1,5 +1,5 @@
 # Library Polars
-![Polars](polars_label.svg)
+![Polars](polars_label.png)
 
 В данном репозитории содержится гайд библиотеки Polars на русском языке.
 
