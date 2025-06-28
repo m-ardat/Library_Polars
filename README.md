@@ -23,6 +23,7 @@
 |[Структура данных DataFrame](https://github.com/m-ardat/Library_Polars/blob/main/DataFrameDataStructure.ipynb)| | |
 |[Доступ к данным](https://github.com/m-ardat/Library_Polars/blob/main/AccessToData.ipynb)| | |
 |[Статистика и вычисления](https://github.com/m-ardat/Library_Polars/blob/main/StatisticsAndMaths.ipynb)| | |
+| [Очистка данных](https://github.com/m-ardat/Library_Polars/blob/main/DataCleaning.ipynb)| | |
 
 
 ### Автор
