@@ -26,7 +26,7 @@
 |[Доступ к данным](https://github.com/m-ardat/Library_Polars/blob/main/AccessToData.ipynb)| | |
 |[Статистика и вычисления](https://github.com/m-ardat/Library_Polars/blob/main/StatisticsAndMaths.ipynb)| | |
 | [Очистка данных](https://github.com/m-ardat/Library_Polars/blob/main/DataCleaning.ipynb)| | |
-|[Чтение и запись данных](https://github.com/m-ardat/Library_Polars/blob/main/LoadingAndUnloadingData.ipynb)| Файл будет обновдяться!| |
+|[Чтение и запись данных](https://github.com/m-ardat/Library_Polars/blob/main/LoadingAndUnloadingData.ipynb)| | |
 
 
 ### Автор
