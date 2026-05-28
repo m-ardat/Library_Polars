@@ -25,7 +25,7 @@
 Репозиторий содержит:
 | Тема | Содержание | Методы, атрибуты, праметры |
 |----------|----------|--------------------------|
-|[Объект Series и его структура данных](https://github.com/m-ardat/Library_Polars/blob/main/SeriesOfObjectsAndDataStructure.ipynb) | (Описание позже) <br>(Описание позже) <br> (Описание позже) <br> (Описание позже)| (Описание позже) |
+|[Объект Series и его структура данных](https://github.com/m-ardat/Library_Polars/blob/main/data_ipynb/SeriesOfObjectsAndDataStructure.ipynb) | (Описание позже) <br>(Описание позже) <br> (Описание позже) <br> (Описание позже)| (Описание позже) |
 |[Структура данных DataFrame](https://github.com/m-ardat/Library_Polars/blob/main/DataFrameDataStructure.ipynb)| | |
 |[Доступ к данным](https://github.com/m-ardat/Library_Polars/blob/main/AccessToData.ipynb)| | |
 |[Статистика и вычисления](https://github.com/m-ardat/Library_Polars/blob/main/StatisticsAndMaths.ipynb)| | |
